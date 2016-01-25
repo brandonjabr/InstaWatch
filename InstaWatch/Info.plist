@@ -20,10 +20,17 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>InstagramAppClientId</key>
+	<string>0beb5a568d104bc6aef2e83ce3508726</string>
+	<key>InstagramAppRedirectURL</key>
+	<string>http://www.mento.la</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
-	<key>UILaunchStoryboardName</key>
-	<string>LaunchScreen</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Lato-Hai.ttf</string>
+		<string>Lato-Lig.ttf</string>
+	</array>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
 	<key>UIRequiredDeviceCapabilities</key>

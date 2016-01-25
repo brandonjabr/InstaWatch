@@ -8,7 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+@import GoogleMobileAds;
+
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate,GADInterstitialDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
 
